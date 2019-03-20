@@ -14,4 +14,4 @@ Add to a JavaScript project with the following code:
 import { footer } 'devcamp-js-footer';
 
 footer('Some Name');
-```
+```# devcamp-js-footer
